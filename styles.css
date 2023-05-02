@@ -5,6 +5,13 @@ button {
   width: 150px;
 }
 
+h2 {
+  color: teal;
+}
+
+label {
+  color: olive;
+  
 select {
   display: block;
   margin-bottom: 20px;
